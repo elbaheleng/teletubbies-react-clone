@@ -10,13 +10,13 @@ function Footer() {
             </div>
             <div className="col-md-5 col-sm-12 mb-3">
                 <div className='d-flex flex-wrap gap-3'>
-                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="../public/TW_footer.jpg" alt="" />
-                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="../public/DI_footer.jpg" alt="" />
-                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="../public/LA_footer.jpg" alt="" />
-                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="../public/PO_footer.jpg" alt="" />
-                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="../public/NN_footer.jpg" alt="" />
-                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="../public/SUN_footer.jpg" alt=""/>
-                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="../public/CR_footer.jpg" alt="" />
+                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="/TW_footer.jpg" alt="" />
+                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="/DI_footer.jpg" alt="" />
+                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="/LA_footer.jpg" alt="" />
+                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="/PO_footer.jpg" alt="" />
+                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="/NN_footer.jpg" alt="" />
+                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="/SUN_footer.jpg" alt=""/>
+                    <img className='rounded rounded-circle bg-body-secondary' height={50} width={50} src="/CR_footer.jpg" alt="" />
                 </div>
             </div>
         </div>
