@@ -13,7 +13,7 @@ function Greenflower() {
          return () => window.removeEventListener("scroll", handleScroll);
        }, []);
   return (
-    <img id='greenflower' src="../public/greenflower.jpg" alt=""  style={{ transform: `rotate(${rotation}deg)`, transition: "transform 0.1s linear" }} />
+    <img id='greenflower' src="/greenflower.jpg" alt=""  style={{ transform: `rotate(${rotation}deg)`, transition: "transform 0.1s linear" }} />
   )
 }
 

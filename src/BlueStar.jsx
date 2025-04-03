@@ -13,7 +13,7 @@ function BlueStar() {
              return () => window.removeEventListener("scroll", handleScroll);
            }, []);
   return (
-    <img id='bluestar' src="../public/bluestar.jpg" alt=""  style={{ transform: `rotate(${rotation}deg)`, transition: "transform 0.1s linear" }} />
+    <img id='bluestar' src="/bluestar.jpg" alt=""  style={{ transform: `rotate(${rotation}deg)`, transition: "transform 0.1s linear" }} />
   )
 }
 

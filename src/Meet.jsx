@@ -8,20 +8,20 @@ function Meet() {
 
             <div className="row">
                 <div className="col-md-3 col-sm-12 mb-3 text-center">
-                    <img className='img-fluid rounded-4 mb-3' src="../public/tinkywinky.jpg" alt="" />
+                    <img className='img-fluid rounded-4 mb-3' src="/tinkywinky.jpg" alt="" />
                     <p><button className='btn btn-outline-light btn-bg-transparent rounded rounded-pill'>Tinkywinky</button></p>
                     
                 </div>
                 <div className="col-md-3 col-sm-12 mb-3 text-center  ">
-                    <img className='img-fluid rounded-4 mb-3' src="../public/dipsy.jpg" alt="" />
+                    <img className='img-fluid rounded-4 mb-3' src="/dipsy.jpg" alt="" />
                     <p><button className='btn btn-outline-light btn-bg-transparent rounded rounded-pill'>Dipsy</button></p>
                 </div>
                 <div className="col-md-3 col-sm-12 mb-2 text-center">
-                    <img className='img-fluid rounded-4 mb-3' src="../public/laalaa.jpg" alt="" />
+                    <img className='img-fluid rounded-4 mb-3' src="/laalaa.jpg" alt="" />
                     <p><button className='btn btn-outline-light btn-bg-transparent rounded rounded-pill'>Laalaa</button></p>
                 </div>
                 <div className="col-md-3 col-sm-12 mb-3 text-center">
-                    <img className='img-fluid rounded-4 mb-3' src="../public/po.jpg" alt="" />
+                    <img className='img-fluid rounded-4 mb-3' src="/po.jpg" alt="" />
                     <p><button className='btn btn-outline-light btn-bg-transparent rounded rounded-pill'>Poo</button></p>
                 </div>
             </div>

@@ -6,7 +6,7 @@ function Footer() {
     <div className='container'>
         <div className="row mt-3">
             <div className="col-md-7 col-sm-12 mb-3">
-                <img className='mt-0' src="../public/logo_teletubbies.jpg" width={150} alt="" />
+                <img className='mt-0' src="/logo_teletubbies.jpg" width={150} alt="" />
             </div>
             <div className="col-md-5 col-sm-12 mb-3">
                 <div className='d-flex flex-wrap gap-3'>

@@ -8,7 +8,7 @@ function Watch() {
         <div className='row'>
             <div id="watch" className="col-md-6 col-sm-12">
                 <BlueStar/>
-                <img className='img-fluid' src="../public/watch.jpg" alt="" />
+                <img className='img-fluid' src="/watch.jpg" alt="" />
             </div>
             <div className="col-md-6 col-sm-12 text-center">
                 <div className='h-100 w-50 mx-auto d-flex flex-column justify-content-center align-items-center'>

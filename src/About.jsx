@@ -6,7 +6,7 @@ function About() {
      {['md'].map((expand) => (
         <Navbar id='navbar' key={expand} expand={expand} className="bg-body-transparent z-10 fw-bold p-0">
           <Container fluid>
-            <Navbar.Brand href="#"><img className='mt-0' src="../public/logo_teletubbies.jpg" width={150} alt="" /></Navbar.Brand>
+            <Navbar.Brand href="#"><img className='mt-0' src="/logo_teletubbies.jpg" width={150} alt="" /></Navbar.Brand>
             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`}  />
             <Navbar.Offcanvas
               id={`offcanvasNavbar-expand-${expand}`}

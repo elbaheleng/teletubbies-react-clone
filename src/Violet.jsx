@@ -15,7 +15,7 @@ function Violet() {
   }, []);
 
   return (
-    <img id='vio1' width={200} src="../public/violet.png" alt=""  style={{ transform: `rotate(${rotation}deg)`, transition: "transform 0.1s linear" }} />
+    <img id='vio1' width={200} src="/violet.png" alt=""  style={{ transform: `rotate(${rotation}deg)`, transition: "transform 0.1s linear" }} />
   )
 }
 

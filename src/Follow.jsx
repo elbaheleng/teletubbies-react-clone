@@ -15,16 +15,16 @@ function Follow() {
             </div>
             <div className='row mt-0'>
                 <div className="col-sm-6 col-lg-3 p-0 mt-0">
-                    <img className='img-fluid w-100 ' src="../public/follow1.jpg" alt="" />
+                    <img className='img-fluid w-100 ' src="/follow1.jpg" alt="" />
                 </div>
                 <div className="col-sm-6 col-lg-3 p-0">
-                    <img className='img-fluid w-100' src="../public/follow2.jpg" alt="" />
+                    <img className='img-fluid w-100' src="/follow2.jpg" alt="" />
                 </div>
                 <div className="col-sm-6 col-lg-3 p-0">
-                    <img className='img-fluid w-100' src="../public/follow3.jpg" alt="" />
+                    <img className='img-fluid w-100' src="/follow3.jpg" alt="" />
                 </div>
                 <div className="col-sm-6 col-lg-3 p-0">
-                    <img className='img-fluid w-100' src="../public/follow4.jpg" alt="" />
+                    <img className='img-fluid w-100' src="/follow4.jpg" alt="" />
                 </div>
             </div>
         </div>

@@ -16,7 +16,7 @@ function Shop() {
         </div>
         <div  id='shop' className="col-md-6 col-sm-12">
           <Greenflower/>
-            <img className='img-fluid' src="../public/shop.jpg" alt="" />
+            <img className='img-fluid' src="/shop.jpg" alt="" />
         </div>
     </div>
   )

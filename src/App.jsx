@@ -22,7 +22,7 @@ function App() {
       {['md'].map((expand) => (
         <Navbar id='navbar' key={expand} expand={expand} className="bg-body-transparent z-10 fw-bold p-0">
           <Container fluid>
-            <Navbar.Brand href="#"><img className='mt-0' src="../public/logo_teletubbies.jpg" width={150} alt="" /></Navbar.Brand>
+            <Navbar.Brand href="#"><img className='mt-0' src="/logo_teletubbies.jpg" width={150} alt="" /></Navbar.Brand>
             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`}  />
             <Navbar.Offcanvas
               id={`offcanvasNavbar-expand-${expand}`}
@@ -58,7 +58,7 @@ function App() {
 
       ))}
 
-      <video autoPlay muted loop id="myVideo" className=' my-0' src="../public/banner.mp4" type="video/mp4">
+      <video autoPlay muted loop id="myVideo" className=' my-0' src="/banner.mp4" type="video/mp4">
       </video>
       <div id='bannercontent' className='d-flex flex-column mb-0 justify-content-center align-items-center'>
         <h3 className="text-uppercase" style={{color : "yellow"}}>Over the hills and far away… Welcome to</h3>
