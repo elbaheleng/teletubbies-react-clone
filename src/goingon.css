@@ -1,0 +1,16 @@
+#goingon{
+    position: relative;
+}
+#vio1{
+    position: absolute;
+    top: 10px;
+    right: -10px;
+}
+
+@media screen and (max-width: 480px) {
+    #vio1{
+        position: absolute;
+        top: 300px;
+        right: -100px;
+    }
+  }

@@ -1,0 +1,19 @@
+#myVideo {
+  position: relative;
+  right: 0;
+  top: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+#navbar{
+  position: absolute;
+  
+}
+
+#bannercontent{
+  position: absolute;
+  top: 50vh ;
+  right: 0;
+  text-align: center;
+}

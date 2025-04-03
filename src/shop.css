@@ -1,0 +1,17 @@
+#shop{
+    position: relative;
+}
+#greenflower{
+    position: absolute;
+    top: 300px;
+    right: 600px;
+}
+
+@media screen and (max-width: 710px) {
+    #greenflower{
+        position: absolute;
+        top: -15px;
+        right: 230px;
+        width: 50px;
+    }
+  }
